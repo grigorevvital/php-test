@@ -1,6 +1,9 @@
+PS filtering is working when you add (&type=php,pdf) to the GET request
+
 # JBA PHP test
 ## The Brief
-Complete the object-oriented file browser within this repository. There is an interface defined to help get started. You will be evaluated on meeting the requirements, time taken, code structure, and efficiency of your code.
+Complete the object-oriented file browser within this repository.
+There is an interface defined to help get started. You will be evaluated on meeting the requirements, time taken, code structure, and efficiency of your code.
 
 ## Delivery
 * Please take a fork of this repository and commit to it as much as possible, supplying the URL to your fork when complete.

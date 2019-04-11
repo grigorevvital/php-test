@@ -7,7 +7,7 @@ interface __FileBrowser {
      * @param string $currentPath Current directory path to list files - will default to $rootPath if null
      * @param array  $extensionFilter Array of file extensions to filter - will not apply a filter if empty
      */
-    function __construct($rootPath, $currentPath = null, array $extensionFilter = array());
+    function __construct($rootPath, $currentPath = null, array $extensionFilter = []);
 
     /**
      * Set private root path
